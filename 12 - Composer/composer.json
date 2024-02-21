@@ -1,0 +1,19 @@
+{
+    "name": "cursopoo/composer",
+    "description": "Aprendendo a utilização do Composer",
+    "require": {
+        "cocur/slugify": "^4.5"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Cursopoo\\Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hector-vs",
+            "email": "hectorvieirasaldivar@gmail.com"
+        }
+    ]
+}
